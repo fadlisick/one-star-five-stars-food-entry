@@ -8,9 +8,9 @@ Deterministic: no randomness, no network, no clock reads.
 import os
 
 REVIEW = (
-    "One star: my ship was towed, my tentacles sunburned, and the locals "
-    "kept asking for selfies, but the pizza was so good I forgot to file "
-    "a complaint."
+    "One star: your planet spins way too fast and smells like wet "
+    "asphalt, though the crispy pork belly nearly convinced me to lay "
+    "my eggs in a strip mall."
 )
 
 
